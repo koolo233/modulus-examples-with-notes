@@ -26,7 +26,7 @@
     - [ ]  Molecular Dynamics
         - [ ]  GNN
 - [ ]  Modulus Sym
-    - [ ]  1D Wave Equation
+    - [x]  [1D Wave Equation](./01_1D_Wave/main_script.ipynb)
     - [ ]  2D Wave Equation
     - [ ]  Spring Mass ODE
     - [ ]  Zero Equation Turbulence
