@@ -27,7 +27,7 @@
         - [ ]  GNN
 - [ ]  Modulus Sym
     - [x]  [1D Wave Equation](./01_1D_Wave/main_script.ipynb)
-    - [ ]  2D Wave Equation
+    - [x]  [2D Wave Equation](./02_2D_Wave/main_script.ipynb)
     - [ ]  Spring Mass ODE
     - [ ]  Zero Equation Turbulence
     - [ ]  Scalar Transport
