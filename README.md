@@ -28,7 +28,8 @@
 - [ ]  Modulus Sym
     - [x]  [1D Wave Equation](./01_1D_Wave/main_script.ipynb)
     - [x]  [2D Wave Equation](./02_2D_Wave/main_script.ipynb)
-    - [ ]  Spring Mass ODE
+    - [x]  [Spring Mass ODE](./03_ODE_SpringMassSystem/main_script.ipynb)
+    - [x]  [2D LDC - Laminar](./04_2D_LDC_Laminar/main_script.ipynb)
     - [ ]  Zero Equation Turbulence
     - [ ]  Scalar Transport
     - [ ]  Linear Elasticity
