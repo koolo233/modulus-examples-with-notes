@@ -30,7 +30,7 @@
     - [x]  [2D Wave Equation](./02_2D_Wave/main_script.ipynb)
     - [x]  [Spring Mass ODE](./03_ODE_SpringMassSystem/main_script.ipynb)
     - [x]  [2D LDC - Laminar](./04_2D_LDC_Laminar/main_script.ipynb)
-    - [ ]  Zero Equation Turbulence
+    - [x]  [Zero Equation Turbulence](./05_2D_LDC_ZeroEquationTurbulence/main_script.ipynb)
     - [ ]  Scalar Transport
     - [ ]  Linear Elasticity
     - [ ]  Inverse Problem
