@@ -34,6 +34,7 @@
     - [x]  [Scalar Transport](./06_2D_AdvectionDiffusion/main_script.ipynb)
     - [x]  [Inverse 1D Wave Equation](./07_1D_Wave_Inverse/main_script.ipynb)
     - [x]  [1D Wave with Causal Training](./08_1D_Wave_Causal/main_script.ipynb)
+    - [x]  [2D LDC with Importance Sampling](./09_2D_LDC_Importance_Sampling/main_script.ipynb)
     - [ ]  Linear Elasticity
     - [ ]  Inverse Problem
     - [ ]  Variational Examples
