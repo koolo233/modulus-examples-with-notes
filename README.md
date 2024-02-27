@@ -31,7 +31,7 @@
     - [x]  [Spring Mass ODE](./03_ODE_SpringMassSystem/main_script.ipynb)
     - [x]  [2D LDC - Laminar](./04_2D_LDC_Laminar/main_script.ipynb)
     - [x]  [Zero Equation Turbulence](./05_2D_LDC_ZeroEquationTurbulence/main_script.ipynb)
-    - [ ]  Scalar Transport
+    - [x]  [Scalar Transport](./06_2D_AdvectionDiffusion/main_script.ipynb)
     - [ ]  Linear Elasticity
     - [ ]  Inverse Problem
     - [ ]  Variational Examples
