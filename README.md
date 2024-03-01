@@ -37,11 +37,13 @@
     - [x]  [2D LDC with Importance Sampling](./09_2D_LDC_Importance_Sampling/main_script.ipynb)
     - [x]  [2D LDC with Domain Decomposition](./10_2D_LDC_Domain_Decomposition/main_script.ipynb)
     - [x]  [2D LDC with FBPINN](./11_2D_LDC_FBPINN/main_script.ipynb)
+    - [x]  [3D Taylor Green with Moving Time Window](./12_3D_TaylorGreenFlow_MovingTimeWindow/main_script.ipynb)
+    - [x]  [3D Taylor Green with Causal Training](./13_3D_TaylorGreenFlow_Causal/main_script.ipynb)
+    - [x]  [2D Cylinder - Laminar](./2D_Cylinder_NS/main_script.ipynb)
     - [ ]  Linear Elasticity
     - [ ]  Inverse Problem
     - [ ]  Variational Examples
     - [ ]  Complex Geo
-    - [ ]  Time Window Training
     - [ ]  2D Waveguide Cavity
     - [ ]  2D Dielectric slab waveguide
     - [ ]  3D waveguide cavity
