@@ -39,19 +39,20 @@
     - [x]  [2D LDC with FBPINN](./11_2D_LDC_FBPINN/main_script.ipynb)
     - [x]  [3D Taylor Green with Moving Time Window](./12_3D_TaylorGreenFlow_MovingTimeWindow/main_script.ipynb)
     - [x]  [3D Taylor Green with Causal Training](./13_3D_TaylorGreenFlow_Causal/main_script.ipynb)
-    - [x]  [2D Cylinder - Laminar](./2D_Cylinder_NS/main_script.ipynb)
+    - [x]  [2D Cylinder - Laminar](./14_2D_Cylinder_NS/main_script.ipynb)
+    - [x]  [2D Chip Solid-Solid Heat Transfer](./15_2D_ChipSolidSolid_HeatTransfer/main_script.ipynb)
+    - [x]  [2D Chip Solid-Fluid Heat Transfer - Flow](./16_2D_ChipSolidFluid_Flow/main_script.ipynb)
+    - [x]  [2D Chip Solid-Fluid Heat Transfer - Heat Transfer](./17_2D_ChipSolidFluid_HeatTransfer/main_script.ipynb)
+    - [x]  [2D Waveguide Cavity](./18_2D_WaveguideCavity/main_script.ipynb)
+    - [x]  [2D Dielectric Slab Waveguide](./19_2D_DielectricSlabWaveguide/main_script.ipynb)
+    - [ ]  3D Waveguide Cavity
+    - [ ]  3D Dielectric Slab Waveguide
     - [ ]  Linear Elasticity
-    - [ ]  Inverse Problem
     - [ ]  Variational Examples
     - [ ]  Complex Geo
-    - [ ]  2D Waveguide Cavity
-    - [ ]  2D Dielectric slab waveguide
-    - [ ]  3D waveguide cavity
-    - [ ]  3D Dielectric slab waveguide
     - [ ]  2D N-S (Turbulent Channel)
     - [ ]  TSR (Turbulence Super Resolution)
     - [ ]  Conjugate Heat Transfer
     - [ ]  3D Fin Parameterization
-    - [ ]  Heat Transfer with High Conductivity
     - [ ]  FPGA
     - [ ]  Industrial Heat Sink
