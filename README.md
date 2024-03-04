@@ -45,6 +45,11 @@
     - [x]  [2D Chip Solid-Fluid Heat Transfer - Heat Transfer](./17_2D_ChipSolidFluid_HeatTransfer/main_script.ipynb)
     - [x]  [2D Waveguide Cavity](./18_2D_WaveguideCavity/main_script.ipynb)
     - [x]  [2D Dielectric Slab Waveguide](./19_2D_DielectricSlabWaveguide/main_script.ipynb)
+    - [x]  [2D Helmholtz](./20_2D_Helmholtz/main_script.ipynb)
+    - [x]  [2D Helmholtz with NTK](./21_2D_Helmholtz_NTK/main_script.ipynb)
+    - [x]  [2D Helmholtz with HardBC](./22_2D_Helmholtz_HardBC/main_script.ipynb)
+    - [x]  [2D Helmholtz with First Order](./23_2D_Helmholtz_FirstOrder/main_script.ipynb)
+    - [x]  [2D Helmholtz with Adaptive Activation Functions](./24_2D_Helmholtz_AdaptiveActivationFunc/main_script.ipynb)
     - [ ]  3D Waveguide Cavity
     - [ ]  3D Dielectric Slab Waveguide
     - [ ]  Linear Elasticity
